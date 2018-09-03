@@ -1,0 +1,91 @@
+[
+    { 
+    "HotelID" : "1",
+    "HotelName" : "Radison Blu",
+    "HotelAddress" : "7, Wardha Road, Chhatrapati Square, Nagpur, Maharashtra 440015",
+    "HotelRating" : 4,
+    "StartDate" : "2018-08-31",
+    "EndDate" : "2018-09-05",
+    "HotelLogo" : "https://r1imghtlak.mmtcdn.com/af89fd0c536211e783af0a553a66de59.jpg?&downsize=800:*&crop=800:490;0,6&output-format=jpg"
+},
+{ 
+    "HotelID" : "2",
+    "HotelName" : "Hyatt Regency",
+    "HotelAddress" : "Weikfield IT Park, Pune Nagar Road, Pune, Maharashtra 411014",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-02",
+    "EndDate" : "2018-09-04",
+    "HotelLogo" : "http://blessingsonthenet.com/img/uploads/hotels/gallery/aim_bn_2_1393666734.jpg"
+},
+{ 
+    "HotelID" : "3",
+    "HotelName" : "Novotel Pune",
+    "HotelAddress" : "Weikfield IT City Infopark Survey No 30/3, Ramwadi, Viman Nagar, Pune, Maharashtra 411014",
+    "HotelRating" : 4,
+    "StartDate" : "2018-09-03",
+    "EndDate" : "2018-09-14",
+    "HotelLogo" : "https://www.hipc.org/hipc2016/images/novotel.png"
+},
+{ 
+    "HotelID" : "4",
+    "HotelName" : "The Pride Hotel",
+    "HotelAddress" : "Opposite Dr Babasaheb Ambedkar International Airport, Wardha Rd, Sonegaon, Nagpur, Maharashtra 440025",
+    "HotelRating" : 4,
+    "StartDate" : "2018-09-20",
+    "EndDate" : "2018-09-20",
+    "HotelLogo" : "https://s-ec.bstatic.com/images/hotel/max1024x768/660/66098306.jpg"
+},
+{ 
+    "HotelID" : "5",
+    "HotelName" : "The Taj Mahal Palace",
+    "HotelAddress" : "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-21",
+    "EndDate" : "2018-09-24",
+    "HotelLogo" : "https://t-ec.bstatic.com/images/hotel/max1280x900/103/103703163.jpg"
+},
+{ 
+    "HotelID" : "6",
+    "HotelName" : "The Leela Palace",
+    "HotelAddress" : "Pichola, Udaipur, Rajasthan 313001",
+    "HotelRating" : 3,
+    "StartDate" : "2018-10-02",
+    "EndDate" : "2018-10-06",
+    "HotelLogo" : "https://www.theleela.com/contentAsset/raw-data/bcade6a5-7abb-4b62-9e5c-fb52fd9c7a55/fileAsset"
+},
+{ 
+    "HotelID" : "7",
+    "HotelName" : "The Oberoi Amarvilas",
+    "HotelAddress" : "Taj East Gate Rd, Paktola, Near, Agra, Uttar Pradesh 282001",
+    "HotelRating" : 4,
+    "StartDate" : "2018-09-05",
+    "EndDate" : "2018-09-06",
+    "HotelLogo" : "https://t-ec.bstatic.com/images/hotel/max1024x768/474/47406149.jpg"
+},
+{ 
+    "HotelID" : "8",
+    "HotelName" : "Taj Lake Palace",
+    "HotelAddress" : "Pichola, Udaipur, Rajasthan 313001",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-20",
+    "EndDate" : "2018-09-22",
+    "HotelLogo" : "https://media-cdn.tripadvisor.com/media/photo-s/09/36/4a/24/taj-lake-palace-udaipur.jpg"
+},
+{ 
+    "HotelID" : "9",
+    "HotelName" : "Umaid Bhawan Palace",
+    "HotelAddress" : "Circuit House Rd, Cantt Area, Jodhpur, Rajasthan 342006",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-02",
+    "EndDate" : "2018-12-04",
+    "HotelLogo" : "http://www.rw-luxuryhotels.com/wp-content/uploads/2015/06/Taj_umaid_bhawan_palace-1200x482.jpg"
+},
+{ 
+    "HotelID" : "10",
+    "HotelName" : "The Oberoi Vanyavilas",
+    "HotelAddress" : "Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001",
+    "HotelRating" : 5,
+    "StartDate" : "2018-11-02",
+    "EndDate" : "2018-12-04",
+    "HotelLogo" : "https://t-ec.bstatic.com/images/hotel/max1024x768/492/49209923.jpg"
+}]
