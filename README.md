@@ -9,6 +9,10 @@
 5. Anushka Sherawat : Complete functionality in Documentation Page (Angular) and integration of all the components and reveiwed final code.
 6. Shrijeet Karade : UI Design and functionality, NodeJS, testing and final overlook at the code.
 7. Bhargavi Deshpande : Implemented complete Testing using Jasmine-Karma framework and integrated in the project.
+
+
+----------------------------------STEPS----------------------------------------
+
 -----------------------First we have to setup Node---------------------------
 
 Install node from https://nodejs.org/en/download/
